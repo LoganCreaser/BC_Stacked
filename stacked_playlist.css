@@ -1,12 +1,12 @@
 body {
-        background-color: #000000;
+        background-color: #ffffff;
     }
 
     .myButton {
         -moz-box-shadow:inset 0px -3px 7px 0px #29bbff;
         -webkit-box-shadow:inset 0px -3px 7px 0px #29bbff;
         box-shadow:inset 0px -3px 7px 0px #29bbff;
-        background-color: transparent;
+        background-color: #2dabf9;
         -moz-border-radius:3px;
         -webkit-border-radius:3px;
         border-radius:3px;
