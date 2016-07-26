@@ -6,7 +6,7 @@ body {
         -moz-box-shadow:inset 0px -3px 7px 0px #29bbff;
         -webkit-box-shadow:inset 0px -3px 7px 0px #29bbff;
         box-shadow:inset 0px -3px 7px 0px #29bbff;
-        background-color:#2dabf9;
+        background-color:#ffffff;
         -moz-border-radius:3px;
         -webkit-border-radius:3px;
         border-radius:3px;
@@ -50,7 +50,7 @@ body {
   .vjs-playlist {
       float: left;
       width: 766px;
-    	max-height: 433px;
+      max-height: 433px;
       position: relative;
       top: 15px;
     }
@@ -64,7 +64,7 @@ body {
 
   }
   .vjs-playlist-item.vjs-selected {
-    background: #263666;
+    background: #ffffff;
   }
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
