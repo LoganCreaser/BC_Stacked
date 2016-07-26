@@ -15,13 +15,13 @@ body {
         cursor:pointer;
         color: #ffffff;
         font-family:Arial;
-        font-size:1px;
+        font-size:15px;
         padding:9px 23px;
         text-decoration:none;
-        text-shadow:0px 0px 0px #263666;
+        text-shadow:0px 1px 0px #263666;
     }
     .myButton:hover {
-        background-color: transparent;
+        background-color: #0688fa;
     }
     .myButton:active {
         position:relative;
