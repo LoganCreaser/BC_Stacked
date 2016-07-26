@@ -12,7 +12,7 @@ body {
         border-radius:3px;
         border:1px solid #ffffff;
         display:inline-block;
-        cursor:pointer;
+        cursor: ;
         color:#ffffff;
         font-family:Arial;
         font-size:15px;
@@ -69,7 +69,7 @@ body {
   }
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
-      white-space: pre-line;
+      white-space: normal;
       min-height: 99px;
     }
 
