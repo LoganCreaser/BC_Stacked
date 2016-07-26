@@ -11,17 +11,17 @@ body {
         -webkit-border-radius:3px;
         border-radius:3px;
         border:1px solid #0b0e07;
-        display:inline-block;
+        display:block;
         cursor:pointer;
         color: #ffffff;
         font-family:Arial;
-        font-size:15px;
+        font-size:1px;
         padding:9px 23px;
         text-decoration:none;
-        text-shadow:0px 1px 0px #263666;
+        text-shadow:0px 0px 0px #263666;
     }
     .myButton:hover {
-        background-color: #0688fa;
+        background-color: transparent;
     }
     .myButton:active {
         position:relative;
@@ -64,7 +64,7 @@ body {
 
   }
   .vjs-playlist-item.vjs-selected {
-    background: #263666;
+    background: #ffffff;
   }
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
