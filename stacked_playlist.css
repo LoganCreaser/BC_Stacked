@@ -13,7 +13,7 @@ body {
         border:1px solid #0b0e07;
         display:inline-block;
         cursor:pointer;
-        color:#ffffff;
+        color:#005a8c;
         font-family:Arial;
         font-size:15px;
         padding:9px 23px;
@@ -53,6 +53,7 @@ body {
     	max-height: 433px;
       position: relative;
       top: 15px;
+      background: #ffffff;
     }
 
   .vjs-playlist-item .vjs-playlist-thumbnail::before {
