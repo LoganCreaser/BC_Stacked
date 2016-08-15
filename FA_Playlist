@@ -65,7 +65,7 @@ body {
 
   }
   .vjs-playlist-item.vjs-selected {
-    background: #263666;
+    background: #005a8c;
   }
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
