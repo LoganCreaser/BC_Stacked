@@ -54,7 +54,6 @@ body {
     	max-height: 433px;
       position: relative;
       top: 15px;
-      background: #ffffff;
     }
 
   .vjs-playlist-item .vjs-playlist-thumbnail::before {
