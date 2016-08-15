@@ -5,7 +5,7 @@
  }
  .myplayer {
  width: 800px;
- height: 450px;
+ height: 100%;
  position: relative;
  }
  .vjs-playlist {
