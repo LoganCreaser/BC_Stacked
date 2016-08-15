@@ -1,5 +1,5 @@
  .video-js {
- height: 430px;
+ height: 100%;
  width: 800px;
  float: left;
  }
