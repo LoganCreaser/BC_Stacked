@@ -60,16 +60,16 @@ body {
     padding: 10px 10px 10px 10px;
   }
   .vjs-playlist .vjs-playlist-item  {
-    padding: 100px 100px 100px 100px;
-    min-height: 200px;
+    padding: 10px 10px 10px 10px;
+    min-height: 100px;
 
   }
   .vjs-playlist-item.vjs-selected {
-    background: #005a8c;
+    background: ##263666;
   }
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
-      word-wrap: break-word
+      word-wrap: break-word;
       white-space: wrap;
       min-height: 99px;
     }
