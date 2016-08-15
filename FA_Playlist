@@ -9,7 +9,7 @@
  position: relative;
  }
  .vjs-playlist {
- width: 766px;
+ width: 100%;
  max-height: 433px;
  position: relative;
  top: 15px;
@@ -21,6 +21,6 @@
 background: rgb(89, 44, 54);
 }
 .vjs-mouse.vjs-playlist .vjs-playlist-description {
-white-space: normal;
+white-space: pre-line;
 min-height: 99px;
 }
