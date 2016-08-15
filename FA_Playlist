@@ -66,13 +66,13 @@ body {
 
   }
   .vjs-playlist-item.vjs-selected {
-    background: ##263666;
+    background: #263666;
   }
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
       word-wrap: break-word;
       white-space: wrap;
-      width: 800px;
+      max-width: 100%;
       min-height: 99px;
     }
 
