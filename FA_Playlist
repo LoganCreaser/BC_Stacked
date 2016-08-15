@@ -60,8 +60,8 @@ body {
     padding: 10px 10px 10px 10px;
   }
   .vjs-playlist .vjs-playlist-item  {
-    padding: 10px 10px 10px 10px;
-    min-height: 100px;
+    padding: 100px 100px 100px 100px;
+    min-height: 200px;
 
   }
   .vjs-playlist-item.vjs-selected {
