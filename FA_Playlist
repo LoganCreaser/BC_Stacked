@@ -21,6 +21,6 @@
 background: rgb(89, 44, 54);
 }
 .vjs-mouse.vjs-playlist .vjs-playlist-description {
-white-space: wrap;
+p {white-space: wrap;}
 min-height: 10px;
 }
