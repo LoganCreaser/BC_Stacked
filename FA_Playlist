@@ -69,6 +69,7 @@ body {
   }
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
+      word-wrap: break-word
       white-space: wrap;
       min-height: 99px;
     }
