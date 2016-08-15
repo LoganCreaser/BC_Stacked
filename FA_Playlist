@@ -1,10 +1,10 @@
  .video-js {
  height: 100%;
- width: 800px;
+ width: 500px;
  float: left;
  }
  .myplayer {
- width: 800px;
+ width: 600px;
  height: 100%;
  position: relative;
  }
