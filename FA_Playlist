@@ -49,16 +49,12 @@ body {
 
   .vjs-playlist {
       float: left;
-      width: 766px;
+      width: 150px;
     	max-height: 433px;
       position: relative;
       top: 15px;
       background: #ffffff;
     }
-    .vjs-mouse.vjs-playlist {
-  color: #466675; /* darker blue */
-  background-color: #CCCCCC; /* gray */
-}
 
   .vjs-playlist-item .vjs-playlist-thumbnail::before {
     padding: 10px 10px 10px 10px;
@@ -74,5 +70,5 @@ body {
 
   .vjs-mouse.vjs-playlist .vjs-playlist-description {
       white-space: normal;
-      min-height: 99px;
+      min-height: 50px;
     }
