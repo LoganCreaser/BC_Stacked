@@ -15,7 +15,7 @@
  top: 15px;
  }
  .vjs-playlist .vjs-playlist-item {
- min-height: 100px;
+ min-height: 50px;
  }
  .vjs-playlist-item.vjs-selected {
 background: rgb(89, 44, 54);
