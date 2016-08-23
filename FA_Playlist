@@ -55,6 +55,10 @@ body {
       top: 15px;
       background: #ffffff;
     }
+    .vjs-mouse.vjs-playlist {
+  color: #466675; /* darker blue */
+  background-color: #CCCCCC; /* gray */
+}
 
   .vjs-playlist-item .vjs-playlist-thumbnail::before {
     padding: 10px 10px 10px 10px;
